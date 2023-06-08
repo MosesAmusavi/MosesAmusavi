@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MosesAmusavi
 - 👀 I’m interested in blender and 3dmodelling
-- 🌱 I’m currently learning data analysis
+- 🌱 I’m currently learning data analysis and networking
 - 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me ... (254712718654)
 
